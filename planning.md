@@ -17,14 +17,6 @@ titanic-ml/
 │   ├── 04_modeling.ipynb
 │   ├── 05_evaluation.ipynb
 │   └── 06_deployment_submission.ipynb
-├── src/
-│   ├── features.py        # feature builders
-│   ├── preprocessing.py   # imputers/encoders/pipelines
-│   ├── modeling.py        # model/param grids/train/cv
-│   └── utils.py           # IO, validation, plotting helpers
-├── reports/
-│   ├── figures/
-│   └── exec_summary.md
 ├── submission/
 └── README.md
 ```
